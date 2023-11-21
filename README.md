@@ -1,1 +1,3 @@
 # Customer-Attrition-Prediction
+
+telecommunications company with its headquarters in California that has been serving clients in over a thousand cities and zip codes for the past six years with phone and internet services. A substantial obstacle that the business must overcome despite having a highly competent sales force that is successful in bringing in new business is a high customer churn rate. The percentage of newly acquired customers who decided to continue their services at the conclusion of the previous quarter was just 43%, which led to a decline in the overall customer base.Specifically, pinpoint the causes of client attrition, create a precise machine learning model to forecast probable exits, and provide tailored retention tactics.
