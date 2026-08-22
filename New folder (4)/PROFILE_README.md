@@ -16,32 +16,26 @@
 
 ---
 
-### 🚀 Technical Overview & Specialization
+### 🚀 About Me
 
-*All skills below are directly backed by verified repositories and end-to-end projects in my portfolio:*
-
-- 🤖 **Machine Learning & Predictive Modeling**: Supervised classification and regression architectures (Gradient Boosting, Random Forest, Decision Trees, Linear SVC, Regularized Ridge/Lasso) with 5-Fold Stratified Cross-Validation and GridSearchCV tuning.
-- 📊 **Business Intelligence & Executive Reporting**: Multi-page Power BI dashboard design, complex Star-schema data modeling, 25+ production DAX formulas (Time Intelligence, YoY/YTD, Ranking, Profit Leaks), and C-Suite PDF reporting.
-- 🔬 **Statistical Inferencing & Hypothesis Testing**: Parametric and non-parametric testing (Z-test, two-sample T-test, One-Way ANOVA, Chi-Square test of independence), distribution modeling, and confidence interval estimation.
-- 🧹 **Feature Engineering & Data Preprocessing**: Outlier isolation (IQR, Z-Score), categorical encoding (One-Hot, Label Encoding), feature scaling (StandardScaler, MinMaxScaler), and data auditing routines.
-- 🌐 **Interactive Data Applications**: Building multi-tab data applications using Streamlit and automated deployment pipelines.
-- 🗄️ **Relational Databases & SQL**: Relational database architecture, constraint management, complex multi-table joins, subqueries, and window aggregations.
+- 🔬 **Data Science & ML**: Experienced in supervised machine learning (Classification & Regression), feature engineering, model evaluation, and cross-validated predictive pipelines using **Scikit-Learn**.
+- 📊 **Business Intelligence & Analytics**: Skilled in building 360° executive dashboards using **Microsoft Power BI**, **DAX**, **Streamlit**, and **Excel** to uncover business insights, financial trends, and operational metrics.
+- 📐 **Statistics & Inferencing**: Strong grounding in hypothesis testing (t-tests, ANOVA, Chi-Square), probability distributions, and exploratory data analysis (**Pandas**, **NumPy**, **SciPy**, **Statsmodels**).
+- 🗄️ **Databases & Querying**: Relational database modeling, complex queries, multi-table joins, and data extraction using **SQL / MySQL**.
 
 ---
 
-### 🛠️ Skills & Technologies (Verified in Repositories)
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-| Technical Domain | Tools & Libraries Used in My Projects | Key Project Proofs |
-| :--- | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Customer Churn, VAHAN, Global Sales, Library SQL |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) `Gradient Boosting` `Random Forest` `Ridge/Lasso` `Stratified K-Fold` `GridSearchCV` | `Customer-Attrition-Prediction`, `Python-BANGALORE-HOUSE-PRICES` |
-| **Statistics & Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-00599C?style=flat-square&logo=python&logoColor=white) | `Statistical-Modeling-and-Inferencing-SMI-`, `Hypothesis` |
-| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) | `gobalsales_powerbi`, `VAHAN-RTO-Vehicle-Registration-Analytics` |
-| **Feature Engineering** | `StandardScaler` `MinMaxScaler` `OneHotEncoder` `LabelEncoder` `IQR Outlier Treatment` | `Employee`, `-Feature-Engineering`, `Data-_Pre_Processing` |
-| **Database & Systems** | `Relational Schema Design` `Multi-Table Joins` `Aggregations & Subqueries` `CSV/Excel Pipelines` | `Library-Management-System`, `Simple-Banking-system-` |
-| **Development Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | Version control, clean modular scripts & notebooks |
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Data Science & ML** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-00599C?style=flat-square&logo=python&logoColor=white) |
+| **BI & Data Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 </div>
 
@@ -60,7 +54,7 @@
       </p>
       <p>Interactive, executive-level <b>Streamlit Analytics App</b> evaluating 2018–2024 Indian national vehicle registration data with Clean Fuel Adoption Rate (CFAR), Herfindahl FMI Powertrain Diversity, and Fleet Scrappage Compliance.</p>
       <p>
-        <b>Skills Applied:</b> <code>Streamlit</code> • <code>Python</code> • <code>Pandas</code> • <code>Herfindahl Index</code> • <code>Data Cleansing</code>
+        <b>Tech:</b> <code>Streamlit</code> • <code>Python</code> • <code>Pandas</code> • <code>Data Cleansing</code>
       </p>
       <div align="center">
         <a href="https://github.com/Abhiram1213/VAHAN-RTO-Vehicle-Registration-Analytics"><b>View Project Repository ➔</b></a>
@@ -75,7 +69,7 @@
       </p>
       <p>Supervised machine learning diagnosis on 7,043 telecom subscribers. Evaluated 5 classifiers using <b>5-Fold Stratified Cross-Validation</b>, achieving <b>94.39% accuracy (ROC-AUC 0.983)</b> with Gradient Boosting.</p>
       <p>
-        <b>Skills Applied:</b> <code>Scikit-Learn</code> • <code>Gradient Boosting</code> • <code>Stratified K-Fold</code> • <code>ROC-AUC</code> • <code>EDA</code>
+        <b>Tech:</b> <code>Scikit-Learn</code> • <code>Gradient Boosting</code> • <code>Stratified K-Fold</code> • <code>ROC-AUC</code>
       </p>
       <div align="center">
         <a href="https://github.com/Abhiram1213/Customer-Attrition-Prediction"><b>View Project Repository ➔</b></a>
@@ -92,7 +86,7 @@
       </p>
       <p>Enterprise 3-Page Power BI Suite & 4-Page Executive PDF Report covering 51,290 transactions ($12.64M sales). Diagnosed a <b>$521k profit leak</b> and built 25+ production DAX formulas for dynamic pricing governance.</p>
       <p>
-        <b>Skills Applied:</b> <code>Power BI</code> • <code>Advanced DAX</code> • <code>Data Modeling (Star Schema)</code> • <code>Executive Reporting</code>
+        <b>Tech:</b> <code>Power BI</code> • <code>DAX Formulas</code> • <code>Data Modeling</code> • <code>Executive Reporting</code>
       </p>
       <div align="center">
         <a href="https://github.com/Abhiram1213/gobalsales_powerbi"><b>View Project Repository ➔</b></a>
@@ -107,7 +101,7 @@
       </p>
       <p>Residential property valuation engine across 241 micro-markets (7,269 listings, ₹7,039 Cr volume). Features regularized regression ($R^2 = 82.5\%$), 4-Page Power BI Dashboard (33 visuals), and master report.</p>
       <p>
-        <b>Skills Applied:</b> <code>Lasso/Ridge Regression</code> • <code>Power BI</code> • <code>Feature Engineering</code> • <code>Python</code>
+        <b>Tech:</b> <code>Lasso/Ridge Regression</code> • <code>Power BI</code> • <code>Feature Engineering</code> • <code>Python</code>
       </p>
       <div align="center">
         <a href="https://github.com/Abhiram1213/Python-BANGALORE-HOUSE-PRICES"><b>View Project Repository ➔</b></a>
@@ -124,7 +118,7 @@
       </p>
       <p>End-to-end data auditing, systematic data cleaning, categorical encoding, feature scaling, and multivariate compensation analysis with executive reporting.</p>
       <p>
-        <b>Skills Applied:</b> <code>Pandas</code> • <code>OneHot/Label Encoding</code> • <code>StandardScaler</code> • <code>Seaborn</code>
+        <b>Tech:</b> <code>Pandas</code> • <code>OneHot/Label Encoding</code> • <code>StandardScaler</code> • <code>Seaborn</code>
       </p>
       <div align="center">
         <a href="https://github.com/Abhiram1213/Employee"><b>View Project Repository ➔</b></a>
@@ -134,12 +128,12 @@
       <h3 align="center">📚 Relational SQL Library Database System</h3>
       <p align="center">
         <a href="https://github.com/Abhiram1213/Library-Management-System">
-          <img src="https://img.shields.io/badge/Database-SQL%20Architecture-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL System"/>
+          <img src="https://img.shields.io/badge/Database-SQL%20Architecture-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL System"/>
         </a>
       </p>
       <p>Relational database management schema with comprehensive SQL queries, primary/foreign key constraints, joins, transaction tracking, and analytical reporting.</p>
       <p>
-        <b>Skills Applied:</b> <code>SQL (DDL/DML/DQL)</code> • <code>Schema Design</code> • <code>Relational Modeling</code> • <code>Joins</code>
+        <b>Tech:</b> <code>SQL</code> • <code>MySQL</code> • <code>Schema Design</code> • <code>Relational Modeling</code>
       </p>
       <div align="center">
         <a href="https://github.com/Abhiram1213/Library-Management-System"><b>View Project Repository ➔</b></a>
