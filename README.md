@@ -3,8 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-F7931E.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
+
 
 > **A comprehensive, data-driven machine learning analysis diagnosing telecom customer churn patterns, benchmarking supervised learning models with 5-Fold Stratified Cross-Validation, and prescribing actionable customer retention strategies.**
 
@@ -97,7 +97,6 @@ Customer-Attrition-Prediction/
 ├── verizonet_data.csv                    # Dataset (7,043 rows × 43 columns)
 ├── requirements.txt                      # Environment dependencies
 ├── .gitignore                            # Standard Python/Jupyter ignore rules
-├── LICENSE                               # MIT License
 └── README.md                             # Human-written technical project documentation
 ```
 
@@ -132,7 +131,3 @@ Open and explore the fully interactive notebook:
 jupyter notebook "Customer Attrition Prediction.ipynb"
 ```
 
----
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
