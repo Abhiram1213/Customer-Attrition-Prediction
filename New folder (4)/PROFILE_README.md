@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirams1213/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhiram1213)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram.s1213@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhiram1213&color=blueviolet&style=for-the-badge)](https://github.com/Abhiram1213)
 
 </div>
@@ -165,7 +164,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirams1213/)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhiram1213-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhiram1213)
-[![Gmail](https://img.shields.io/badge/Gmail-abhiram.s1213@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram.s1213@gmail.com)
 
 ⭐ *Feel free to explore my repositories, open pull requests, or reach out for collaboration!*
 
