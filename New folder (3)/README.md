@@ -7,12 +7,10 @@ A comprehensive, production-grade data science project performing end-to-end dat
 ## 📁 Repository Structure
 
 ```
-├── Employee.csv               # Cleaned & standardized dataset
-├── employe.ipynb              # Fully executed, overhauled primary notebook
-├── Employee_Analysis.ipynb    # Supplementary clean notebook copy
-├── generate_nb.py             # Programmatic notebook builder script
-├── run_notebook.py            # Automated execution & validation runner
-└── README.md                  # Project documentation & insights
+├── Employee.csv                   # Cleaned & standardized dataset
+├── employe.ipynb                  # Fully executed, overhauled primary notebook
+├── Employee_Analysis_Report.pdf   # Publication-grade 4-page Executive PDF Report
+└── README.md                      # Project documentation & insights
 ```
 
 ---
@@ -35,23 +33,25 @@ A comprehensive, production-grade data science project performing end-to-end dat
 
 ---
 
-## 📊 Key Insights & Findings
+## 📦 Requirements & Environment Setup
 
-1. **Company Representation**: TCS represents the largest share of records (~40%), followed by Infosys (~33%) and CTS (~27%).
-2. **Geographic Distribution**: Mumbai and Calcutta comprise over 50% of the recorded workforce.
-3. **Compensation Spread**: Salary spans from ₹1,089 to ₹9,876 with a median of ~₹5,000.
-4. **Predictive Performance**: Tree-based ensembles (Random Forest Regressor) and Ridge models identify `Age` and specific metropolitan work centers (`Mumbai`, `Calcutta`) as key predictors of compensation.
+To ensure zero warning messages and optimal numerical computation compatibility:
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn "numexpr>=2.10.2" reportlab nbformat nbclient
+```
 
 ---
 
 ## 🚀 How to Run Locally
 
 1. Clone or download this repository.
-2. Install required packages:
+2. Install dependencies:
    ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn jupyter nbclient
+   pip install -r requirements.txt
    ```
-3. Open and run the notebook in Jupyter Lab or VS Code:
+   *(or run the pip command above)*
+3. Launch Jupyter:
    ```bash
    jupyter notebook employe.ipynb
    ```
