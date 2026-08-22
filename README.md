@@ -96,7 +96,6 @@ Customer-Attrition-Prediction/
 ├── Customer Attrition Prediction.ipynb   # Complete, executed, and documented Jupyter Notebook
 ├── verizonet_data.csv                    # Dataset (7,043 rows × 43 columns)
 ├── requirements.txt                      # Environment dependencies
-├── .gitignore                            # Standard Python/Jupyter ignore rules
 └── README.md                             # Human-written technical project documentation
 ```
 
