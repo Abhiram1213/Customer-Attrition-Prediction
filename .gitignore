@@ -77,7 +77,13 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Temporary scratch files
+# Temporary scratch & output files
 scratch/
 scratch_analysis.txt
 predictions.csv
+
+# Serialized Model Artifacts
+models/
+*.joblib
+*.pkl
+
