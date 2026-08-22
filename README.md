@@ -122,10 +122,12 @@ The top factors influencing customer departure ranked by relative feature import
 
 ```
 Customer-Attrition-Prediction/
-├── Customer Attrition Prediction.ipynb   # Fully documented & executed Jupyter Notebook
+├── Customer Attrition Prediction.ipynb   # Executed & documented Jupyter Notebook
+├── demo.py                               # One-command quickstart demonstration script
 ├── verizonet_data.csv                    # Dataset (7,043 rows × 43 columns)
 ├── requirements.txt                      # Version-pinned Python dependencies
 ├── .gitignore                            # Standard Python & OS ignore rules
+├── LICENSE                               # MIT License
 ├── README.md                             # Human-written technical project documentation
 ├── models/
 │   └── churn_prediction_pipeline.joblib  # Serialized production pipeline artifact
@@ -162,19 +164,25 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Option A: Interactive Jupyter Notebook
+### Option A: Quick Demonstration (Single Command)
+Run immediate evaluation and customer risk scoring with targeted retention actions:
+```bash
+python demo.py
+```
+
+### Option B: Interactive Jupyter Notebook
 Launch the notebook to inspect exploratory visual plots, cross-validation metrics, and interactive code:
 ```bash
 jupyter notebook "Customer Attrition Prediction.ipynb"
 ```
 
-### Option B: Retrain Models via CLI
+### Option C: Retrain Models via CLI
 Train the models, benchmark cross-validation scores, and save the champion pipeline artifact:
 ```bash
 python -m src.train --data verizonet_data.csv --output models/churn_prediction_pipeline.joblib
 ```
 
-### Option C: Run Predictions & Risk Scoring
+### Option D: Run Predictions & Risk Scoring
 Generate churn probabilities and risk levels for new customer records:
 ```bash
 python -m src.predict --input verizonet_data.csv --output predictions.csv
@@ -184,3 +192,4 @@ python -m src.predict --input verizonet_data.csv --output predictions.csv
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
+
